@@ -1,0 +1,120 @@
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\SharedAccessPolicy.exe.config
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\SharedAccessPolicy.exe
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\SharedAccessPolicy.pdb
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\System.Spatial.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\System.Spatial.xml
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\obj\Debug\SharedAccessPolicy.csprojResolveAssemblyReference.cache
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\obj\Debug\SharedAccessPolicy.csproj.CoreCompileInputs.cache
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\obj\Debug\SharedAccessPolicy.exe
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\obj\Debug\SharedAccessPolicy.pdb
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\SharedAccessPolicy.exe.config
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\SharedAccessPolicy.exe
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\SharedAccessPolicy.pdb
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\System.Spatial.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\System.Spatial.xml
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\obj\Debug\SharedAccessPolicy.csprojResolveAssemblyReference.cache
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\obj\Debug\SharedAccessPolicy.csproj.CoreCompileInputs.cache
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\obj\Debug\SharedAccessPolicy.exe
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns (B08058)\Chapter 9\Code\SharedAccessPolicy\SharedAccessPolicy\obj\Debug\SharedAccessPolicy.pdb

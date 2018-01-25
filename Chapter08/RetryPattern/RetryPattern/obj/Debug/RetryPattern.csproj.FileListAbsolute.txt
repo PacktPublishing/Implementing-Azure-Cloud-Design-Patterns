@@ -1,0 +1,7 @@
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 8\Code\RetryPattern\RetryPattern\bin\Debug\RetryPattern.exe.config
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 8\Code\RetryPattern\RetryPattern\bin\Debug\RetryPattern.exe
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 8\Code\RetryPattern\RetryPattern\bin\Debug\RetryPattern.pdb
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 8\Code\RetryPattern\RetryPattern\obj\Debug\RetryPattern.csprojResolveAssemblyReference.cache
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 8\Code\RetryPattern\RetryPattern\obj\Debug\RetryPattern.csproj.CoreCompileInputs.cache
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 8\Code\RetryPattern\RetryPattern\obj\Debug\RetryPattern.exe
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 8\Code\RetryPattern\RetryPattern\obj\Debug\RetryPattern.pdb

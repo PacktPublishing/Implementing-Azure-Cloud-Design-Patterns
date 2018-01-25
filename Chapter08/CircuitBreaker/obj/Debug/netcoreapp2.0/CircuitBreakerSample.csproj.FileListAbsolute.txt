@@ -1,0 +1,11 @@
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 8\Code\CircuitBreaker\obj\Debug\netcoreapp2.0\CircuitBreakerSample.csprojResolveAssemblyReference.cache
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 8\Code\CircuitBreaker\obj\Debug\netcoreapp2.0\CircuitBreakerSample.csproj.CoreCompileInputs.cache
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 8\Code\CircuitBreaker\obj\Debug\netcoreapp2.0\CircuitBreakerSample.AssemblyInfoInputs.cache
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 8\Code\CircuitBreaker\obj\Debug\netcoreapp2.0\CircuitBreakerSample.AssemblyInfo.cs
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 8\Code\CircuitBreaker\bin\Debug\netcoreapp2.0\CircuitBreakerSample.deps.json
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 8\Code\CircuitBreaker\bin\Debug\netcoreapp2.0\CircuitBreakerSample.runtimeconfig.json
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 8\Code\CircuitBreaker\bin\Debug\netcoreapp2.0\CircuitBreakerSample.runtimeconfig.dev.json
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 8\Code\CircuitBreaker\bin\Debug\netcoreapp2.0\CircuitBreakerSample.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 8\Code\CircuitBreaker\bin\Debug\netcoreapp2.0\CircuitBreakerSample.pdb
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 8\Code\CircuitBreaker\obj\Debug\netcoreapp2.0\CircuitBreakerSample.dll
+C:\Users\stefano\OneDrive\Packt\Implementing Azure Cloud Design Patterns\Chapter 8\Code\CircuitBreaker\obj\Debug\netcoreapp2.0\CircuitBreakerSample.pdb
